@@ -1,6 +1,9 @@
 {
 	"name": "Darker Plus",
 	"colors": {
+		"activityBar.border": "#6c4bce",
+        "sideBar.border": "#6c4bce",
+        "statusBar.border": "#6c4bce",
 		"focusBorder": "#FFCE6B",
 		"foreground": "#c2c2c2",
 		"widget.shadow": "#000000",
